@@ -1,0 +1,8 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#561623",
+        "titleBar.activeBackground": "#781F31",
+        "titleBar.activeForeground": "#FEFBFC"
+    },
+    "eggHelper.serverPort": 35684
+}

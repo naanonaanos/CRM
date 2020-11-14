@@ -1,0 +1,444 @@
+2020/11/12 08:28:34 [warning] [application] Failed to set unsafe attribute "opportunity_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:28:34 [warning] [application] Failed to set unsafe attribute "leads_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:28:34 [warning] [application] Failed to set unsafe attribute "contact_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:28:34 [warning] [application] Failed to set unsafe attribute "city" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:28:34 [warning] [application] Failed to set unsafe attribute "province" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:28:34 [warning] [application] Failed to set unsafe attribute "subdistrict" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:28:34 [error] [php] Undefined index: destination_code (C:\xampp\htdocs\zeus\protected\controllers\AccountController.php:81)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(134): AccountController->runAction()
+#1 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 C:\xampp\htdocs\yii\framework\web\CController.php(1148): CAccessControlFilter->filter()
+#3 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): AccountController->filterAccessControl()
+#4 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#5 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#6 C:\xampp\htdocs\yii\framework\web\CController.php(265): AccountController->runActionWithFilters()
+#7 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): AccountController->run()
+#8 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\zeus\index.php(13): CWebApplication->run()
+REQUEST_URI=/zeus/index.php?r=Account/Create
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (81)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:28:37 [warning] [application] Failed to set unsafe attribute "opportunity_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:28:37 [warning] [application] Failed to set unsafe attribute "leads_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:28:37 [warning] [application] Failed to set unsafe attribute "contact_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:28:37 [warning] [application] Failed to set unsafe attribute "city" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:28:37 [warning] [application] Failed to set unsafe attribute "province" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:28:37 [warning] [application] Failed to set unsafe attribute "subdistrict" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:28:37 [error] [php] Undefined index: destination_code (C:\xampp\htdocs\zeus\protected\controllers\AccountController.php:81)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(134): AccountController->runAction()
+#1 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 C:\xampp\htdocs\yii\framework\web\CController.php(1148): CAccessControlFilter->filter()
+#3 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): AccountController->filterAccessControl()
+#4 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#5 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#6 C:\xampp\htdocs\yii\framework\web\CController.php(265): AccountController->runActionWithFilters()
+#7 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): AccountController->run()
+#8 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\zeus\index.php(13): CWebApplication->run()
+REQUEST_URI=/zeus/index.php?r=Account/Create
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (81)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:28:37 [warning] [application] Failed to set unsafe attribute "opportunity_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:28:37 [warning] [application] Failed to set unsafe attribute "leads_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:28:37 [warning] [application] Failed to set unsafe attribute "contact_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:28:37 [warning] [application] Failed to set unsafe attribute "city" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:28:37 [warning] [application] Failed to set unsafe attribute "province" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:28:37 [warning] [application] Failed to set unsafe attribute "subdistrict" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:28:37 [error] [php] Undefined index: destination_code (C:\xampp\htdocs\zeus\protected\controllers\AccountController.php:81)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(134): AccountController->runAction()
+#1 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 C:\xampp\htdocs\yii\framework\web\CController.php(1148): CAccessControlFilter->filter()
+#3 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): AccountController->filterAccessControl()
+#4 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#5 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#6 C:\xampp\htdocs\yii\framework\web\CController.php(265): AccountController->runActionWithFilters()
+#7 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): AccountController->run()
+#8 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\zeus\index.php(13): CWebApplication->run()
+REQUEST_URI=/zeus/index.php?r=Account/Create
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (81)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:28:38 [warning] [application] Failed to set unsafe attribute "opportunity_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:28:38 [warning] [application] Failed to set unsafe attribute "leads_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:28:38 [warning] [application] Failed to set unsafe attribute "contact_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:28:38 [warning] [application] Failed to set unsafe attribute "city" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:28:38 [warning] [application] Failed to set unsafe attribute "province" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:28:38 [warning] [application] Failed to set unsafe attribute "subdistrict" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:28:38 [error] [php] Undefined index: destination_code (C:\xampp\htdocs\zeus\protected\controllers\AccountController.php:81)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(134): AccountController->runAction()
+#1 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 C:\xampp\htdocs\yii\framework\web\CController.php(1148): CAccessControlFilter->filter()
+#3 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): AccountController->filterAccessControl()
+#4 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#5 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#6 C:\xampp\htdocs\yii\framework\web\CController.php(265): AccountController->runActionWithFilters()
+#7 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): AccountController->run()
+#8 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\zeus\index.php(13): CWebApplication->run()
+REQUEST_URI=/zeus/index.php?r=Account/Create
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (81)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:28:38 [warning] [application] Failed to set unsafe attribute "opportunity_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:28:38 [warning] [application] Failed to set unsafe attribute "leads_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:28:38 [warning] [application] Failed to set unsafe attribute "contact_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:28:38 [warning] [application] Failed to set unsafe attribute "city" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:28:38 [warning] [application] Failed to set unsafe attribute "province" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:28:38 [warning] [application] Failed to set unsafe attribute "subdistrict" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:28:38 [error] [php] Undefined index: destination_code (C:\xampp\htdocs\zeus\protected\controllers\AccountController.php:81)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(134): AccountController->runAction()
+#1 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 C:\xampp\htdocs\yii\framework\web\CController.php(1148): CAccessControlFilter->filter()
+#3 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): AccountController->filterAccessControl()
+#4 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#5 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#6 C:\xampp\htdocs\yii\framework\web\CController.php(265): AccountController->runActionWithFilters()
+#7 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): AccountController->run()
+#8 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\zeus\index.php(13): CWebApplication->run()
+REQUEST_URI=/zeus/index.php?r=Account/Create
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (81)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:34:18 [warning] [application] Failed to set unsafe attribute "opportunity_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:34:18 [warning] [application] Failed to set unsafe attribute "leads_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:34:18 [warning] [application] Failed to set unsafe attribute "contact_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:34:18 [error] [php] Undefined index: destination_code (C:\xampp\htdocs\zeus\protected\controllers\AccountController.php:81)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(134): AccountController->runAction()
+#1 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 C:\xampp\htdocs\yii\framework\web\CController.php(1148): CAccessControlFilter->filter()
+#3 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): AccountController->filterAccessControl()
+#4 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#5 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#6 C:\xampp\htdocs\yii\framework\web\CController.php(265): AccountController->runActionWithFilters()
+#7 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): AccountController->run()
+#8 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\zeus\index.php(13): CWebApplication->run()
+REQUEST_URI=/zeus/index.php?r=Account/Create
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (81)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:34:19 [warning] [application] Failed to set unsafe attribute "opportunity_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:34:19 [warning] [application] Failed to set unsafe attribute "leads_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:34:19 [warning] [application] Failed to set unsafe attribute "contact_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:34:19 [error] [php] Undefined index: destination_code (C:\xampp\htdocs\zeus\protected\controllers\AccountController.php:81)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(134): AccountController->runAction()
+#1 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 C:\xampp\htdocs\yii\framework\web\CController.php(1148): CAccessControlFilter->filter()
+#3 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): AccountController->filterAccessControl()
+#4 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#5 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#6 C:\xampp\htdocs\yii\framework\web\CController.php(265): AccountController->runActionWithFilters()
+#7 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): AccountController->run()
+#8 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\zeus\index.php(13): CWebApplication->run()
+REQUEST_URI=/zeus/index.php?r=Account/Create
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (81)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:34:20 [warning] [application] Failed to set unsafe attribute "opportunity_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:34:20 [warning] [application] Failed to set unsafe attribute "leads_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:34:20 [warning] [application] Failed to set unsafe attribute "contact_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:34:20 [error] [php] Undefined index: destination_code (C:\xampp\htdocs\zeus\protected\controllers\AccountController.php:81)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(134): AccountController->runAction()
+#1 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 C:\xampp\htdocs\yii\framework\web\CController.php(1148): CAccessControlFilter->filter()
+#3 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): AccountController->filterAccessControl()
+#4 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#5 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#6 C:\xampp\htdocs\yii\framework\web\CController.php(265): AccountController->runActionWithFilters()
+#7 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): AccountController->run()
+#8 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\zeus\index.php(13): CWebApplication->run()
+REQUEST_URI=/zeus/index.php?r=Account/Create
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (81)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:34:21 [warning] [application] Failed to set unsafe attribute "opportunity_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:34:21 [warning] [application] Failed to set unsafe attribute "leads_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:34:21 [warning] [application] Failed to set unsafe attribute "contact_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:34:21 [error] [php] Undefined index: destination_code (C:\xampp\htdocs\zeus\protected\controllers\AccountController.php:81)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(134): AccountController->runAction()
+#1 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 C:\xampp\htdocs\yii\framework\web\CController.php(1148): CAccessControlFilter->filter()
+#3 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): AccountController->filterAccessControl()
+#4 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#5 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#6 C:\xampp\htdocs\yii\framework\web\CController.php(265): AccountController->runActionWithFilters()
+#7 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): AccountController->run()
+#8 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\zeus\index.php(13): CWebApplication->run()
+REQUEST_URI=/zeus/index.php?r=Account/Create
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (81)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:34:21 [warning] [application] Failed to set unsafe attribute "opportunity_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:34:21 [warning] [application] Failed to set unsafe attribute "leads_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:34:21 [warning] [application] Failed to set unsafe attribute "contact_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:34:21 [error] [php] Undefined index: destination_code (C:\xampp\htdocs\zeus\protected\controllers\AccountController.php:81)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(134): AccountController->runAction()
+#1 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 C:\xampp\htdocs\yii\framework\web\CController.php(1148): CAccessControlFilter->filter()
+#3 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): AccountController->filterAccessControl()
+#4 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#5 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#6 C:\xampp\htdocs\yii\framework\web\CController.php(265): AccountController->runActionWithFilters()
+#7 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): AccountController->run()
+#8 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\zeus\index.php(13): CWebApplication->run()
+REQUEST_URI=/zeus/index.php?r=Account/Create
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (81)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:34:22 [warning] [application] Failed to set unsafe attribute "opportunity_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:34:22 [warning] [application] Failed to set unsafe attribute "leads_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:34:22 [warning] [application] Failed to set unsafe attribute "contact_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:34:22 [error] [php] Undefined index: destination_code (C:\xampp\htdocs\zeus\protected\controllers\AccountController.php:81)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(134): AccountController->runAction()
+#1 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 C:\xampp\htdocs\yii\framework\web\CController.php(1148): CAccessControlFilter->filter()
+#3 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): AccountController->filterAccessControl()
+#4 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#5 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#6 C:\xampp\htdocs\yii\framework\web\CController.php(265): AccountController->runActionWithFilters()
+#7 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): AccountController->run()
+#8 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\zeus\index.php(13): CWebApplication->run()
+REQUEST_URI=/zeus/index.php?r=Account/Create
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (81)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:34:22 [warning] [application] Failed to set unsafe attribute "opportunity_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:34:22 [warning] [application] Failed to set unsafe attribute "leads_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:34:22 [warning] [application] Failed to set unsafe attribute "contact_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:34:22 [error] [php] Undefined index: destination_code (C:\xampp\htdocs\zeus\protected\controllers\AccountController.php:81)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(134): AccountController->runAction()
+#1 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 C:\xampp\htdocs\yii\framework\web\CController.php(1148): CAccessControlFilter->filter()
+#3 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): AccountController->filterAccessControl()
+#4 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#5 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#6 C:\xampp\htdocs\yii\framework\web\CController.php(265): AccountController->runActionWithFilters()
+#7 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): AccountController->run()
+#8 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\zeus\index.php(13): CWebApplication->run()
+REQUEST_URI=/zeus/index.php?r=Account/Create
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (81)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:34:22 [warning] [application] Failed to set unsafe attribute "opportunity_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:34:22 [warning] [application] Failed to set unsafe attribute "leads_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:34:22 [warning] [application] Failed to set unsafe attribute "contact_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:34:22 [error] [php] Undefined index: destination_code (C:\xampp\htdocs\zeus\protected\controllers\AccountController.php:81)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(134): AccountController->runAction()
+#1 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 C:\xampp\htdocs\yii\framework\web\CController.php(1148): CAccessControlFilter->filter()
+#3 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): AccountController->filterAccessControl()
+#4 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#5 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#6 C:\xampp\htdocs\yii\framework\web\CController.php(265): AccountController->runActionWithFilters()
+#7 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): AccountController->run()
+#8 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\zeus\index.php(13): CWebApplication->run()
+REQUEST_URI=/zeus/index.php?r=Account/Create
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (81)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:34:23 [warning] [application] Failed to set unsafe attribute "opportunity_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:34:23 [warning] [application] Failed to set unsafe attribute "leads_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:34:23 [warning] [application] Failed to set unsafe attribute "contact_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:34:23 [error] [php] Undefined index: destination_code (C:\xampp\htdocs\zeus\protected\controllers\AccountController.php:81)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(134): AccountController->runAction()
+#1 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 C:\xampp\htdocs\yii\framework\web\CController.php(1148): CAccessControlFilter->filter()
+#3 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): AccountController->filterAccessControl()
+#4 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#5 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#6 C:\xampp\htdocs\yii\framework\web\CController.php(265): AccountController->runActionWithFilters()
+#7 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): AccountController->run()
+#8 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\zeus\index.php(13): CWebApplication->run()
+REQUEST_URI=/zeus/index.php?r=Account/Create
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (81)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:36:46 [warning] [application] Failed to set unsafe attribute "opportunity_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:36:46 [warning] [application] Failed to set unsafe attribute "leads_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:36:46 [warning] [application] Failed to set unsafe attribute "contact_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:36:46 [warning] [application] Failed to set unsafe attribute "destination_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:41:51 [warning] [application] Failed to set unsafe attribute "opportunity_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:41:51 [warning] [application] Failed to set unsafe attribute "leads_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:41:51 [warning] [application] Failed to set unsafe attribute "contact_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:41:51 [warning] [application] Failed to set unsafe attribute "destination_code" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:41:51 [warning] [application] Failed to set unsafe attribute "city" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:41:51 [warning] [application] Failed to set unsafe attribute "province" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/12 08:41:51 [warning] [application] Failed to set unsafe attribute "subdistrict" of "Account".
+in C:\xampp\htdocs\zeus\protected\controllers\AccountController.php (71)
+in C:\xampp\htdocs\zeus\index.php (13)
+2020/11/13 01:57:43 [error] [php] Undefined index: search_by (C:\xampp\htdocs\zeus\protected\controllers\ContactController.php:196)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(134): ContactController->runAction()
+#1 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 C:\xampp\htdocs\yii\framework\web\CController.php(1148): CAccessControlFilter->filter()
+#3 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): ContactController->filterAccessControl()
+#4 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#5 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#6 C:\xampp\htdocs\yii\framework\web\CController.php(265): ContactController->runActionWithFilters()
+#7 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): ContactController->run()
+#8 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\zeus\index.php(13): CWebApplication->run()
+REQUEST_URI=/zeus/index.php?r=contact/getLeads
+in C:\xampp\htdocs\zeus\protected\controllers\ContactController.php (196)
+in C:\xampp\htdocs\zeus\index.php (13)
